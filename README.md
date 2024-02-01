@@ -19,10 +19,20 @@ In this conclusion course paper, we explore the dynamics of urban growth in medi
 ## Objetivos específicos
 
 - Implementar o método quantitativo de caracterização não linear da variação da densidade territorial urbana via função sigmoide.
+
 - Analisar as variações de densidade territorial urbana em municípios paulistas de porte médio por meio do ajuste da função sigmoide.
+
 - Realizar análises de agrupamento para identificação de padrões de crescimento urbano nos municípios paulistas analisados.
 
+## Conteúdo do repositório
 
+Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conclusão de Curso (TCC) intitulado "Agrupamento de municípios paulistas por densidade territorial urbana":
+
+[TCC_MBA_defesa_IsabelSousa.pdf](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_defesa_IsabelSousa.pdf): arquivo PDF com os slides da defesa do TCC.
+
+TCC_MBA_IsabelSousa.pdf: arquivo PDF com a versão final do Trabalho de Conclusão de Curso.
+
+[TCC_MBA_IsabelSousa.ipynb](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.ipynb): arquivo Jupyter Notebook com os códigos para desenvolvimento do trabalho.
 
 
 
