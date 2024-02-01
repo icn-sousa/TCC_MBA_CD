@@ -1,4 +1,13 @@
-# TCC - MBA em Ciência de Dados (ICMC/USP)
+# [MBA em Ciência de Dados](https://cemeai.icmc.usp.br/MBA/) - [Turma 2023](https://cemeai.icmc.usp.br/evento/4o-workshop-de-defesas-mba-ciencias-de-dados-cemeai-icmc-usp/)
+
+**Trabalho de Conclusão de Curso - TCC**
+
+**Título**: Agrupamento de municípios paulistas por densidade territorial urbana.
+
+**Autora**: [Isabel Cristina Nunes de Sousa](https://icn-sousa.github.io/)
+**Orientador**: [Wallace Correa de Oliveira Casaca](https://sites.google.com/site/wallacecoc/)
+
+[CeMEAI](https://cemeai.icmc.usp.br/) - [ICMC/USP](https://www.icmc.usp.br/)
 
 ## Resumo
 
