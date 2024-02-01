@@ -4,8 +4,9 @@
 
 **Título**: Agrupamento de municípios paulistas por densidade territorial urbana.
 
-**Autora**: [Isabel Cristina Nunes de Sousa](https://icn-sousa.github.io/)
-**Orientador**: [Wallace Correa de Oliveira Casaca](https://sites.google.com/site/wallacecoc/)
+> **Autora**: [Isabel Cristina Nunes de Sousa](https://icn-sousa.github.io/)
+
+> **Orientador**: [Wallace Correa de Oliveira Casaca](https://sites.google.com/site/wallacecoc/)
 
 [CeMEAI](https://cemeai.icmc.usp.br/) - [ICMC/USP](https://www.icmc.usp.br/)
 
