@@ -43,6 +43,8 @@ Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conc
 TCC_MBA_IsabelSousa.pdf: arquivo PDF com a versão final do Trabalho de Conclusão de Curso.
 
 [TCC_MBA_IsabelSousa.ipynb](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.ipynb): arquivo Jupyter Notebook com os códigos para desenvolvimento do trabalho.
-
+<a target="_blank" href="https://colab.research.google.com/github/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
