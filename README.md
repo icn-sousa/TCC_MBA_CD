@@ -40,7 +40,7 @@ Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conc
 
 [TCC_MBA_defesa_IsabelSousa.pdf](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_defesa_IsabelSousa.pdf): arquivo PDF com os slides da defesa do TCC.
 
-TCC_MBA_IsabelSousa.pdf: arquivo PDF com a versão final do Trabalho de Conclusão de Curso.
+[TCC_MBA_IsabelSousa.pdf](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.pdf): arquivo PDF com a versão final do Trabalho de Conclusão de Curso.
 
 [TCC_MBA_IsabelSousa.ipynb](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.ipynb): arquivo Jupyter Notebook com os códigos para desenvolvimento do trabalho.
 <a target="_blank" href="https://colab.research.google.com/github/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.ipynb">
