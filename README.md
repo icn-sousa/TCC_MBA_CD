@@ -38,6 +38,8 @@ In this conclusion course paper, we explore the dynamics of urban growth in medi
 
 Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conclusão de Curso (TCC) intitulado "Agrupamento de municípios paulistas por densidade territorial urbana":
 
+[dados](https://github.com/icn-sousa/TCC_MBA_CD/tree/main/dados): diretório com os dados utilizados na pesquisa, provenientes do IBGE e do MapBiomas.
+
 [TCC_MBA_defesa_IsabelSousa.pdf](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_defesa_IsabelSousa.pdf): arquivo PDF com os slides da defesa do TCC.
 
 [TCC_MBA_IsabelSousa.pdf](https://github.com/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.pdf): arquivo PDF com a versão final do Trabalho de Conclusão de Curso.
@@ -46,5 +48,9 @@ Este repositório contém os seguintes arquivos relacionados ao Trabalho de Conc
 <a target="_blank" href="https://colab.research.google.com/github/icn-sousa/TCC_MBA_CD/blob/main/TCC_MBA_IsabelSousa.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+[outputs](https://github.com/icn-sousa/TCC_MBA_CD/tree/main/outputs): diretório com os arquivos resultantes das análises efetuadas no decorrer do trabalho.
+
+[material cartográfico](https://github.com/icn-sousa/TCC_MBA_CD/tree/main/material_cartografico): diretório com arquivo GeoPackage compactado referente ao material cartográfico desenvolvido.
 
 
